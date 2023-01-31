@@ -1,0 +1,5 @@
+LIBRARY WA0lhBejHs5uOozVgHtEvC_cclib.dll
+EXPORTS
+    get_dll_checksum_WA0lhBejHs5uOozVgHtEvC
+    vidLedOn_WA0lhBejHs5uOozVgHtEvC
+    get_checksum_source_info
