@@ -1,0 +1,7 @@
+LIBRARY XTWGS6YQeo3kGTKrqoyPPB_cclib.dll
+EXPORTS
+    get_dll_checksum_XTWGS6YQeo3kGTKrqoyPPB
+    vidAlarmOn_XTWGS6YQeo3kGTKrqoyPPB
+    vidAlarmInit_XTWGS6YQeo3kGTKrqoyPPB
+    u8ReadBtn_XTWGS6YQeo3kGTKrqoyPPB
+    get_checksum_source_info
