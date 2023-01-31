@@ -1,0 +1,6 @@
+LIBRARY 12DQpr2GhqS1qsDxRSg7C_cclib.dll
+EXPORTS
+    get_dll_checksum_12DQpr2GhqS1qsDxRSg7C
+    vidAlarmOn_12DQpr2GhqS1qsDxRSg7C
+    vidAlarmInit_12DQpr2GhqS1qsDxRSg7C
+    get_checksum_source_info

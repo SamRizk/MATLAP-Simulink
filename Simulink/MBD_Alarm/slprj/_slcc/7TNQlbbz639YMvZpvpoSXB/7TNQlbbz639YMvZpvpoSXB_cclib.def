@@ -1,0 +1,6 @@
+LIBRARY 7TNQlbbz639YMvZpvpoSXB_cclib.dll
+EXPORTS
+    get_dll_checksum_7TNQlbbz639YMvZpvpoSXB
+    vidAlarmOn_7TNQlbbz639YMvZpvpoSXB
+    vidAlarmInit_7TNQlbbz639YMvZpvpoSXB
+    get_checksum_source_info
